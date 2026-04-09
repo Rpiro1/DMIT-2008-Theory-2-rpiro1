@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Rocco Piro - Illustrator & Web Developer",
+    "description": "I'm a Illustrator & Web Developer based in Canada, passionate about making creative and unique digital experiences. My primary tools of choice include: JavaScript, PHP, HTML, CSS, Photoshop, Illustrator, ClipStudio Paint",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,34 +11,34 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
+    "personName": "Rocco",
+    "jobTitle": "Freelance Illustrator & Web Developer",
     "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "location": "Canada",
+    "countryCode": "CA",
+    "nationality": "Canadian",
+    "publisherName": "Rocco",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/rocco-piro-b529ab233",
+      "https://github.com/Rpiro1"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Rocco Piro",
+    "summary": "a freelance illustrator and web developer",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Rpiro1"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/rocco-piro-b529ab233"
       },
       {
         "ariaLabel": "dribble profile",
@@ -59,33 +59,34 @@
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Rocco, a illustrator and web developer from Canada.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
       "JavaScript",
-      "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "PHP",
+      "HTML",
+      "CSS",
+      "Photoshop",
+      "Illustrator",
+      "ClipStudio Paint"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
+    "passion": "Beyond coding, I'm passionate about design, illustration, and traveling. I like to collect watches and comics.",
     "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "rpirobusiness@gmail.com",
+    "location": "Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/rocco-piro-b529ab233"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Rpiro1"
       },
       {
         "label": "Discord",
